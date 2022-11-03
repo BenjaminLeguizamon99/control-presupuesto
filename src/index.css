@@ -348,7 +348,8 @@ main {
     bottom: 0;
 }
 .modal .cerrar-modal {
-    position: absolute;
+    /* position: absolute; */
+    margin: 2rem;
     right: 3rem;
     top: 3rem;
     width: 3rem;
